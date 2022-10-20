@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="626.924" height="186.586" viewBox="0 0 626.924 186.586">
+  <defs>
+    <linearGradient id="linear-gradient" x1="8.279" y1="0.01" x2="8.279" y2="1.032" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.506" stop-color="lime"/>
+      <stop offset="1" stop-color="#006e00"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" transform="translate(-3.795 -861.446)">
+    <g id="g4491" transform="translate(4.323 861.974)">
+      <rect id="rect4756" width="605.775" height="185.53" rx="8.141" fill="#333" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.056"/>
+      <path id="path4758" d="M190.294,961.2h10.741c4.091,0,7.673-7.153,7.673-15.326V890.7c0-8.169-3.595-15.326-7.673-15.326H190.294Z" transform="translate(417.412 -825.521)" fill="#333" stroke="#333" stroke-width="0.553"/>
+      <g id="g4313" transform="translate(24.27 17.208)">
+        <rect id="rect4172" width="33.494" height="150.97" rx="2.584" fill="url(#linear-gradient)"/>
+        <rect id="rect4174" width="33.494" height="150.97" rx="2.584" transform="translate(321.749)" fill="url(#linear-gradient)"/>
+        <rect id="rect4176" width="33.494" height="150.97" rx="2.584" transform="translate(281.529)" fill="url(#linear-gradient)"/>
+        <rect id="rect4178" width="33.494" height="150.97" rx="2.584" transform="translate(241.31)" fill="url(#linear-gradient)"/>
+        <rect id="rect4180" width="33.494" height="150.97" rx="2.584" transform="translate(201.091)" fill="url(#linear-gradient)"/>
+        <rect id="rect4182" width="33.494" height="150.97" rx="2.584" transform="translate(160.874)" fill="url(#linear-gradient)"/>
+        <rect id="rect4184" width="33.494" height="150.97" rx="2.584" transform="translate(120.655)" fill="url(#linear-gradient)"/>
+        <rect id="rect4186" width="33.494" height="150.97" rx="2.584" transform="translate(80.436)" fill="url(#linear-gradient)"/>
+        <rect id="rect4188" width="33.494" height="150.97" rx="2.584" transform="translate(40.219)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
